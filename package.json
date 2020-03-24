@@ -1,0 +1,25 @@
+{
+  "name": "earnup-db",
+  "version": "0.0.1",
+  "description": "Database importer and schema creator",
+  "main": "import.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "mysql": "^2.18.1",
+    "readline": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stridentbean/earnup-db.git"
+  },
+  "author": "Michael Borglin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stridentbean/earnup-db/issues"
+  },
+  "homepage": "https://github.com/stridentbean/earnup-db#readme"
+}
